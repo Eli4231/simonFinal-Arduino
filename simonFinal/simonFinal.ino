@@ -1,6 +1,4 @@
 
-
-
 #include <DIYables_4Digit7Segment_74HC595.h>
 
 #define IDLE 0
