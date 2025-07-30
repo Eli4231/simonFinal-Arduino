@@ -1,5 +1,5 @@
-//אלימלך לאנג
-// ת.ז:308132448
+
+
 
 #include <DIYables_4Digit7Segment_74HC595.h>
 
